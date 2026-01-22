@@ -1,28 +1,37 @@
 # DSAI-3306-Digital-Image-Processing
+
 personal DSAI 3306 notes, summaries, and reference materials in 2026 :)
+
 ---
 # Digital Image Processing – Course Repository
+
 ## Course Information
+
 **Course Name:** Digital Image Processing  
 **Instructor:** Dr. Mohamed Alsheakhali  
 **Programming Language:** Python  
 **Prerequisite:** Programming & Mathematics  
+
 **Textbook:**  
 Rafael C. Gonzalez, Richard E. Woods  
 *Digital Image Processing*, 4th Edition, 2018
+
 ---
 ##  Course Description
+
 This course introduces the fundamentals of **Digital Image Processing (DIP)**.  
 It covers image representation, enhancement, restoration, compression, segmentation,  
 and serves as an introduction to **Computer Vision**, including **feature extraction**  
-and **neural networks**.
+and **neural networks**
+
 ---
 ##  Grading Scheme
 - **40%** Exercises / Homework  
 - **20%** Midterm  
 - **40%** Final Project  
 ---
-## 📂 Repository Structure & Weekly Content
+
+## Repository Structure & Weekly Content
 
 | Week | Topic | Key Concepts | Main Files |
 |-----:|------|-------------|------------|
